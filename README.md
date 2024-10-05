@@ -1,2 +1,2 @@
 # APZ
-Repository for labworks for APZ
+Repository for APZ labworks 
